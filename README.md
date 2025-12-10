@@ -47,12 +47,19 @@
 
 <!--![Leetcode stats](https://stats.justsong.cn/api/leetcode/?username=onFelixFelici&theme=dark) -->
 
-
 <h3 align="left">Connect with me:</h3>
+
+<p>
+  <a href="https://github.com/debugv14" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/deepak-verma-1403" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://codeforces.com/profile/TheShelbyCoder" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://leetcode.com/onFelixFelici" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+</p>
+
+<!---
 <p align="left">
 <a href="https://github.com/debugv14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="debugv14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak-verma-1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-verma-1403" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/TheShelbyCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="TheShelbyCoder" height="30" width="40" /></a>
 <a href="https://leetcode.com/onFelixFelici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onFelixFelici" height="30" width="40" /></a>
 </p>
+
+---->
 
