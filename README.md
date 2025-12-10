@@ -11,7 +11,7 @@
 
 - 🤝 I'm looking for help with **learning system design**
 
-- 💬 Don't ask me about **React, Angular, Java8, Springboot**
+- 💬 Don't ask me about **React, Angular, Java8, Springboot, TS/JS based any framework or library** 🤷‍♂️
 
 - 📫 If your project needs a hero (or at least a developer who tries), email me: **deepak14.work@gmail.com**
 
