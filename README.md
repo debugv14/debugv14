@@ -3,7 +3,7 @@
 ### Ps: they call me Debug Verma :)
 
 - 👨‍💻 IIT (BHU) Varanasi [Covid Batch] — not sure if it was the best decision of my life or just Stockholm syndrome at this point.
-- 🔭 I'm currently working on **kuch to heavy sa project, confidential shhhhhhhhhhhh_it**
+- 🔭 I'm currently working on **kuch to heavy sa project, confidential 🤫shhhhhhhhhhhhhh________it**
 
 - 🌱 I'm currently learning **Next.js, Python, AI-SDK, ElectricSQL, LLMs**
 
