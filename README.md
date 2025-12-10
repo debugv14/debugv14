@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **deepak14.work@gmail.com**
 
-- ⚡ Fun fact **I have done everything but engineering :)**
+- ⚡ Fun fact **Mai bas problems create karta hun 👍 ... solve nhi karta (kar hi nahi pata) 👎**
 
 - 👨‍💻 All of my projects are available at **[https://deepakv-portfolio.vercel.app/](https://deepakv-portfolio.vercel.app/)**
 
