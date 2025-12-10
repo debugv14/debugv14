@@ -26,7 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/debugv14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="debugv14" height="30" width="40" /></a>
+<a href="https://github.com/debugv14" target="blank" class="padding:2px"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="debugv14" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/deepak-verma-1403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak-verma-1403" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/TheShelbyCoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="TheShelbyCoder" height="30" width="40" /></a>
 <a href="https://leetcode.com/onFelixFelici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="onFelixFelici" height="30" width="40" /></a>
