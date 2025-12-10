@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **Mai bas problems create karta hun 👍 ... solve nhi karta (kar hi nahi pata) 👎**
 
-- 👨‍💻 All of my projects are available at **[https://deepakv-portfolio.vercel.app/](https://deepakv-portfolio.vercel.app/)**
+- 👨‍💻 Worst Digital portfolio at **[https://deepakv-portfolio.vercel.app/](https://deepakv-portfolio.vercel.app/)**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1Y6M7YSX5v9yyv8JlUxgiJDYxCk--CI44/view?usp=sharing](https://drive.google.com/file/d/1Y6M7YSX5v9yyv8JlUxgiJDYxCk--CI44/view?usp=sharing)**
 
