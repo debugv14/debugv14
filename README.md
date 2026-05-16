@@ -9,7 +9,7 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
-- 🔗 Portfolio: <a href="https://deepakv-portfolio.vercel.app/">
+- 🔗 Wanna know more?? here's my <a href="https://deepakv-portfolio.vercel.app/">digital Portfolio</a>
 
 - 🤝 I'm looking for help with **learning system design**
 
