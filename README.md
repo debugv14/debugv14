@@ -9,11 +9,13 @@
 
 - 👯 I'm looking to collaborate on **open source projects**
 
+- 🔗 Portfolio: <a href="https://deepakv-portfolio.vercel.app/">
+
 - 🤝 I'm looking for help with **learning system design**
 
 - 💬 Don't ask me about **React, Angular, Java8, Springboot, TS/JS based any framework or library** 🤷‍♂️
 
-- 📫 If your project needs a hero (or at least a developer who tries), email me: **deepak14.work@gmail.com**
+- 📫 If your project needs a hero (or at least an engineer who tries his best), email me: **deepak14.work@gmail.com**
 
 - ⚡ Fun fact **Mai bas problems create karta hun 👍 ... solve nhi karta (kar hi nahi pata) 👎**
 
